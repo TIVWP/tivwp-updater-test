@@ -1,2 +1,3 @@
-# tivwp-updater-test
-QA for TIVWP Updater
+# TIVWP Updater Test
+QA for TIVWP Updater.
+A WordPress plugin.
